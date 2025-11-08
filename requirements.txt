@@ -1,0 +1,9 @@
+pandas>=1.0
+numpy>=1.18
+matplotlib>=3.0
+seaborn>=0.10
+scikit-learn>=0.22
+jupyter>=1.0
+statsmodels>=0.12
+notebook
+ipykernel
